@@ -1,12 +1,11 @@
-import { useState } from "react";
-import { useEffect } from "react";
+import { useState, useEffect } from "react";
+
 import Description from "./Description";
 import Options from "./Options";
-// import Feedback from "./Feedback";
-
-import "../App.css";
 import Feedback from "./Feedback";
 import Notification from "./Notification";
+
+import "../App.css";
 
 export const App = () => {
   const initialFeedback = {
