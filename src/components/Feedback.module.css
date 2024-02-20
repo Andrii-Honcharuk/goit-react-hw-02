@@ -1,0 +1,11 @@
+.feedbackContainer {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  margin-top: 24px;
+  margin-left: 36px;
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 500;
+}
